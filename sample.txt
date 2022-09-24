@@ -1,0 +1,16 @@
+##The diagram above visualizes a repositry with two isolated lines of development ,one for a little
+features and one for a longer-running features, by developing them branches, its not only possible 
+to work on both of them in parallel, but it also keeps the main master branch free of enter.
+
+##Each task has one separate Branch.
+
+##After down with code, merge other Branches with Master.
+
+##This concept is useful for parallel development.
+
+##Changes are personal to that praticular Branch.
+
+##Defualt branch is 'Master'
+
+##File created in workspace will be visible in any of the brach workspace untill you commit once
+you commit, then that file belongs to that particular Branch.
