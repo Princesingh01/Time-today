@@ -1,0 +1,4 @@
+## What is DevOps?
+
+- DevOps is a software development approch which involes Continuous Development,continuosus Testing,Continuous Intigration,
+  Continuous Deployment and continuous Monitorig of the softwore throughout its development life cycle.
