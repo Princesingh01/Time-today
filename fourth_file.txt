@@ -1,0 +1,3 @@
+## What is continuous Development?
+
+_ This phase involves 'Planing' and 'Coding' of the software application functionality.
