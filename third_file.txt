@@ -1,0 +1,7 @@
+## DevOps life cycle phases.
+
+- continuous Development
+- continuous Test
+- Continuous integration
+- Continuous deployment
+- Continuous Monitoring
