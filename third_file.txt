@@ -1,7 +1,10 @@
-## DevOps life cycle phases.
 
-- continuous Development
-- continuous Test
+## Devops life cycle phases.
+
+- Continuous deployment
+- Continuous test
 - Continuous integration
 - Continuous deployment
-- Continuous Monitoring
+- Continuous monitoring
+
+ This file createad to just tusting for merge conflict
